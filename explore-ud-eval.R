@@ -8,7 +8,7 @@ options("width"=200)
 options(setWidthOnResize=TRUE)
 
 
-# df <- read_delim("toks.csv")
+# df <- read_delim("tokenizer-results.csv")
 df <- read_delim("pretok.csv")
 # df <- read_delim("swedish.csv")
 # df <- read_delim("no-bpe-wordpiece-tok.csv")
